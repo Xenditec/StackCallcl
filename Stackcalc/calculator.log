@@ -1,0 +1,8 @@
+дек. 15, 2024 8:00:11 PM org.example.Calculator push
+INFO: PUSH: 1
+дек. 15, 2024 8:00:17 PM org.example.Calculator push
+INFO: PUSH: 192
+дек. 15, 2024 8:00:20 PM org.example.Calculator add
+INFO: ADD: 1.0 + 192.0
+дек. 15, 2024 8:00:22 PM org.example.Calculator print
+INFO: PRINT: 193.0
